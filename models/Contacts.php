@@ -112,7 +112,7 @@ class contacts extends ActiveRecord
 
         if (in_array($params['id'], $favorites)) {
             Yii::$app->db->createCommand()->delete('favorites',
-                'contact_id = ' . $params['id']
+                'contact_id = ' . $params['id'] . ' AND user_id = ' . $currentUserId
             )->execute();
         } else {
             Yii::$app->db->createCommand()->insert('favorites', [

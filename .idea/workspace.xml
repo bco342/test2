@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ddc834b-6e5c-4afe-a47a-d7f25cac69fb" name="Default Changelist" comment="" />
+    <list default="true" id="6ddc834b-6e5c-4afe-a47a-d7f25cac69fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Contacts.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Contacts.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +35,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/bco342/test2.git" />
+      </set>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -155,7 +165,7 @@
       <workItem from="1588272649711" duration="2384000" />
       <workItem from="1588324361459" duration="68000" />
       <workItem from="1588324483258" duration="89000" />
-      <workItem from="1588331705236" duration="702000" />
+      <workItem from="1588331705236" duration="2227000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1588270411456</created>
@@ -178,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588274993807</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="done">
+      <created>1588332438652</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588332438653</updated>
+    </task>
+    <task id="LOCAL-00005" summary="delete yii environment">
+      <created>1588332542862</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588332542862</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +224,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="delete yii environment" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete yii environment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="476" y="188" key="#SQL_Dialects" timestamp="1588274925949">
@@ -211,10 +236,10 @@
       <screen x="80" y="0" width="1600" height="1050" />
     </state>
     <state x="476" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/80.0.1600.1050@80.0.1600.1050" timestamp="1588274973129" />
-    <state x="518" y="128" key="CommitChangelistDialog2" timestamp="1588332437984">
+    <state x="518" y="128" key="CommitChangelistDialog2" timestamp="1588332542273">
       <screen x="80" y="0" width="1600" height="1050" />
     </state>
-    <state x="518" y="128" key="CommitChangelistDialog2/80.0.1600.1050@80.0.1600.1050" timestamp="1588332437984" />
+    <state x="518" y="128" key="CommitChangelistDialog2/80.0.1600.1050@80.0.1600.1050" timestamp="1588332542273" />
     <state x="663" y="284" key="FileChooserDialogImpl" timestamp="1588271288579">
       <screen x="80" y="0" width="1600" height="1050" />
     </state>
@@ -227,14 +252,18 @@
       <screen x="80" y="0" width="1600" height="1050" />
     </state>
     <state x="758" y="424" key="Github.ShareDialog/80.0.1600.1050@80.0.1600.1050" timestamp="1588270709458" />
+    <state x="710" y="240" key="RollbackChangesDialog" timestamp="1588333632083">
+      <screen x="80" y="0" width="1600" height="1050" />
+    </state>
+    <state x="710" y="240" key="RollbackChangesDialog/80.0.1600.1050@80.0.1600.1050" timestamp="1588333632083" />
     <state x="407" y="161" key="SettingsEditor" timestamp="1588332093831">
       <screen x="80" y="0" width="1600" height="1050" />
     </state>
     <state x="407" y="161" key="SettingsEditor/80.0.1600.1050@80.0.1600.1050" timestamp="1588332093831" />
-    <state x="476" y="262" key="Vcs.Push.Dialog.v2" timestamp="1588332350978">
+    <state x="476" y="262" key="Vcs.Push.Dialog.v2" timestamp="1588332562367">
       <screen x="80" y="0" width="1600" height="1050" />
     </state>
-    <state x="476" y="262" key="Vcs.Push.Dialog.v2/80.0.1600.1050@80.0.1600.1050" timestamp="1588332350978" />
+    <state x="476" y="262" key="Vcs.Push.Dialog.v2/80.0.1600.1050@80.0.1600.1050" timestamp="1588332562367" />
     <state x="591" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1588331715244">
       <screen x="80" y="0" width="1600" height="1050" />
     </state>
@@ -243,10 +272,10 @@
       <screen x="80" y="0" width="1600" height="1050" />
     </state>
     <state x="718" y="263" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/80.0.1600.1050@80.0.1600.1050" timestamp="1588275022802" />
-    <state x="694" y="322" key="git4idea.merge.GitPullDialog" timestamp="1588270541581">
+    <state x="694" y="322" key="git4idea.merge.GitPullDialog" timestamp="1588333501721">
       <screen x="80" y="0" width="1600" height="1050" />
     </state>
-    <state x="694" y="322" key="git4idea.merge.GitPullDialog/80.0.1600.1050@80.0.1600.1050" timestamp="1588270541581" />
+    <state x="694" y="322" key="git4idea.merge.GitPullDialog/80.0.1600.1050@80.0.1600.1050" timestamp="1588333501721" />
     <state x="543" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1588332270833">
       <screen x="80" y="0" width="1600" height="1050" />
     </state>
